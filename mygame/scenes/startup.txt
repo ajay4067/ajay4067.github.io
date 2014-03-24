@@ -1,0 +1,14 @@
+*title Worlds Apart
+*scene_list
+  startup
+  starwars
+  animal
+  variables
+  gosub
+  ending
+  death
+
+*create leadership 50
+*create strength 50
+
+
