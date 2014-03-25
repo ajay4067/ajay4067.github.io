@@ -17,7 +17,7 @@ Choose an Origin Story.
       #Man
         set gender "man"
         goto agefetch
-    *agefetch
+    *label agefetch
     ${gender} at the age of
     *choice
       #16
@@ -29,7 +29,7 @@ Choose an Origin Story.
       #18
         set age 18
         goto locationfetch
-    * label locationfetch
+    *label locationfetch
     ${age} year old boy and full of problems. You were thrown into crime young. 
     You live in the Lawless District, the worst and most dangerous district in the....
     *choice
