@@ -1,0 +1,45 @@
+December 21st, 2012 was the dawn of a new era for Earth. As the Mayans predicted it was the end of the world. Earth was invaded by alien species, it was a hostile takeover. 
+They killed 50% of the world's human population and repopulated it with aliens. You were a baby when it happened and can barely remember what happened during. 
+The leaders of the invasion, known as The Enyeta organized human districts. To keep track of humans and the other aliens who now roam the Earth. 
+Humans live in what uses to be the United States, while the majority of the other races of aliens live around the globe. There are at least nine districts in every region of America. North, South, East, and West. 
+Each region is ruled by a senator and the senator answers to the King of America. The King answers to The Enyeta. It is a bit complicated but you've been dealing with this since birth.
+*page_break
+Choose an Origin Story.
+*choice
+  #The Jock.
+    *set origin_choice "The_Jock"
+    Your mother died during the invasion, this in turn made your father depressed and an alcoholic. He then abandoned       you and your little sister Cassandra. So the two of you became products of the system which despite advanced            technology was no better than before aliens invaded. 
+    You were placed in abusive and dysfunctional foster homes and in turn became a criminal. In and out of juvie. In        your own right, a bad ass but a troubled young
+    *choice
+    #Woman
+      set gender "woman"
+    #Man
+      set gender "man"
+    ${gender} at the age of
+    *choice
+    #16
+      set age 16
+    #17
+      set age 17
+    #18
+      set age 18
+    ${age} year old boy and full of problems. You were thrown into crime young. 
+    You live in the Lawless District, the worst and most dangerous district in the....
+    *choice
+    #North
+      set district_location "North"
+    #South
+      set district_location "South"
+    #East
+      set district_location "East"
+    #West
+      set district_location "West"
+    So a kid can only get ito trouble in a place like this. The only bright point in this dark place and time is your       little sister Cassie. But we'll get to her later
+    *finish Present.
+  #The Popular Kid
+    To be done...
+    *finish The Present Day
+  #The Nerd
+    To be done...
+    *finish The Present Day
+  #The Criminal
