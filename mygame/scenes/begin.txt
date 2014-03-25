@@ -12,39 +12,39 @@ Choose an Origin Story.
     You were placed in abusive and dysfunctional foster homes and in turn became a criminal. In and out of juvie. In        your own right, a bad ass but a troubled young
     *choice
       #Woman
-        set gender "woman"
-        goto agefetch
+        *set gender "woman"
+        *goto agefetch
       #Man
-        set gender "man"
-        goto agefetch
+        *set gender "man"
+        *goto agefetch
     *label agefetch
     ${gender} at the age of
     *choice
       #16
-        set age 16
-        goto locationfetch
+        *set age 16
+        *goto locationfetch
       #17
-        set age 17
-        goto locationfetch
+        *set age 17
+        *goto locationfetch
       #18
-        set age 18
-        goto locationfetch
+        *set age 18
+        *goto locationfetch
     *label locationfetch
     ${age} year old boy and full of problems. You were thrown into crime young. 
     You live in the Lawless District, the worst and most dangerous district in the....
     *choice
       #North
-        set district_location "North"
-        goto finishup
+        *set district_location "North"
+        *goto finishup
       #South
-        set district_location "South"
-        goto finishup
+        *set district_location "South"
+        *goto finishup
       #East
-        set district_location "East"
-        goto finishup
+        *set district_location "East"
+        *goto finishup
       #West
-        set district_location "West"
-        goto finishup
+        *set district_location "West"
+        *goto finishup
     *label finishup
     So a kid can only get ito trouble in a place like this. The only bright point in this dark place and time is your       little sister Cassie. But we'll get to her later
     *finish Present.
