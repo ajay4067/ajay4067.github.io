@@ -1,0 +1,22 @@
+*image darthwader.jpg
+You wake up to the cold splash of icy water to your face. You cough because some of it got in your mouth. Your body shivers from the freezing water. It is the worst feeling ever because you are half naked. Your captor knows what he is doing. At least you think he is a he. 
+You look up and see a humongous alien, it has rough skin like a crocodile. Big yellow eyes with slitted pupils. Jagged teeth. Green scaly skin. Strong muscled arms and strong muscled legs that are as big as tree trunks. Sharp claws for fingers and sharper claws for toes. His teeth look razor sharp. It is staring straight at you. The name of this alien species is called G'lan.
+*line_break
+" Puny human," he says in a deep rumbling voice.
+*line_break
+What do you do?
+*choice
+  #Spit on him.
+    You get as much spit as you can in your mouth and launch it at the Croc. It lands right on his nose. You chuckle 			weakly. The Croc roars out in anger. He punches you in your ribs, knocking the wind out of you. Then he punches you 	across your face. Damn near breaking your jaw. Blood fills your mouth and the Croc's steel fist comes across your 			face again. You almost choke on your blood but you spit it out. The Croc smiles. " You haven't experienced pain yet 	human," he threatens.
+    *goto finishline
+  #Beg him to stop.
+    The alien simply laughs at your begging. G'lan are not known for their mercy especially since they hate humans. The 		G'lan picks up the whip riddled with metal shards and begins his daily torture routine.
+    *goto finishline
+  #Ask for food.
+    The G'lan grunts at your request then throws you a dry piece of beef jerky. It tastes disgusting, and only fills you 		up a little.
+    *fake_choice
+      #Tell him to go fuck himself.
+        He growls at you, his scaly clawed hand goes around your throat. The air escapes your throat. He throws you 				against the stone wall of your cell.
+        *goto finishline
+    *label finishline
+    *finish Proceed to chapter Animals
