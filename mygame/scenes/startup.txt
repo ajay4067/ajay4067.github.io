@@ -10,8 +10,8 @@
 
 *create leadership 50
 *create strength 50
-*create origin_choice
-*create gender
-*create district_location
-*create age
+*create origin_choice "The_Jock"
+*create gender "Woman"
+*create district_location "North"
+*create age 16
 
