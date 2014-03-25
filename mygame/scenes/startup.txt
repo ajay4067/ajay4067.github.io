@@ -3,10 +3,8 @@
   startup
   prologue
   begin
-  variables
-  gosub
+  present
   ending
-  death
 
 *create leadership 50
 *create strength 50
