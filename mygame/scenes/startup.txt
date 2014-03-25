@@ -10,5 +10,7 @@
 
 *create leadership 50
 *create strength 50
-
+*create origin_choice
+*create gender
+*create district_location
 
