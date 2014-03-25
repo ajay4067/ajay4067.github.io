@@ -2,7 +2,7 @@
 *scene_list
   startup
   prologue
-  animal
+  begin
   variables
   gosub
   ending
