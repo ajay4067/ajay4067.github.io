@@ -1,6 +1,6 @@
 [b]Prologue[/b]
 *line_break
-You wake up to the cold splash of icy water to your face. You cough because some of it got in your mouth. Your body shivers from the freezing water. It is the worst feeling ever because you are half naked. Your captor knows what he is doing. At least you think he is a he. 
+You wake up to the cold splash of icy water to your face. You cough because some of it got in your mouth. Your body shivers from the freezing water. It is the worst feeling ever because you are half naked. Your captor knows what he is doing. At least you think he is. 
 You look up and see a humongous alien, it has rough skin like a crocodile. Big yellow eyes with slitted pupils. Jagged teeth. Green scaly skin. Strong muscled arms and strong muscled legs that are as big as tree trunks. Sharp claws for fingers and sharper claws for toes. His teeth look razor sharp. It is staring straight at you. The name of this alien species is called G'lan.
 *line_break
 " Puny human," he says in a deep rumbling voice.
@@ -20,4 +20,4 @@ What do you do?
         He growls at you, his scaly clawed hand goes around your throat. The air escapes your throat. He throws you 				against the stone wall of your cell.
         *goto finishline
     *label finishline
-    *finish Proceed to chapter Animals
+    *finish Proceed to The Beginning
