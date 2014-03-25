@@ -30,7 +30,7 @@ Choose an Origin Story.
         *set age 18
         *goto locationfetch
     *label locationfetch
-    ${age} year old boy and full of problems. You were thrown into crime young. 
+    ${age} year old ${gender} and full of problems. You were thrown into crime young. 
     You live in the Lawless District, the worst and most dangerous district in the....
     *choice
       #North
