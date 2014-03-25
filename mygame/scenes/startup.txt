@@ -13,4 +13,5 @@
 *create origin_choice
 *create gender
 *create district_location
+*create age
 
