@@ -20,4 +20,6 @@ What do you do?
         He growls at you, his scaly clawed hand goes around your throat. The air escapes your throat. He throws you 				against the stone wall of your cell.
         *goto finishline
     *label finishline
+    *line_break
+    You think back to better times before you were tortured at the hands of your alien captors.
     *finish Proceed to The Beginning

@@ -6,10 +6,36 @@
   present
   ending
 
-*create leadership 50
-*create strength 50
+*comment traits & presets
+*create body 25
+*create athletics 25
+*create intellect 10
+*create charisma 20
+*create technical 10
+*create wilderness 15
+*create criminal 10
+*create streetwise 10
+*create military 20
+*create dexterity 10
+*create will 20
+*comment user
 *create origin_choice "The_Jock"
-*create gender "Woman"
+*create gender "Boy"
 *create district_location "North"
 *create age 16
-
+*create name "Alice"
+*create last_name "Lost"
+*create hair_color "black"
+*create eye_color "green"
+*create hairstyle "spikes"
+*create ethnicity "caucasian"
+*comment Relationships
+*create cassie true
+*create quinn false
+*create jules false
+*create mike false
+*create mary false
+*create wesley false
+*create coloniel_wilson false
+*create johnny false
+*create vehicle "Solar surfer"

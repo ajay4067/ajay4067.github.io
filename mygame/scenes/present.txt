@@ -1,7 +1,1 @@
-*set leadership 10
-*set strength 10
-
-The Present Day.
-*line_break
-To be done..
 *finish Last scene

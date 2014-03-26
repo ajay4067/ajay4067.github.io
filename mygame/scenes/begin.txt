@@ -8,52 +8,60 @@ Choose an Origin Story.
 *choice
   #The Jock.
     *set origin_choice "The_Jock"
-    Your mother died during the invasion, this in turn made your father depressed and an alcoholic. He then abandoned       you and your little sister Cassandra. So the two of you became products of the system which despite advanced            technology was no better than before aliens invaded. 
-    You were placed in abusive and dysfunctional foster homes and in turn became a criminal. In and out of juvie. In        your own right, a bad ass but a troubled young
+    *set body 25
+    *set athletics 25
+    *set intellect 10
+    *set charisma 20
+    *set technical 10
+    *set wilderness 15
+    *set criminal 10
+    *set streetwise 10
+    *set military 20
+    Chapter 1: Expectations
+    *line_break
+    You were born in one of the best districts in the United States, the Olympic District. The District known for breeding the best athletes in the United States.
+    *line_break
+    So are you a girl or a boy?
     *choice
-      #Woman
-        *set gender "woman"
-        *goto agefetch
-      #Man
-        *set gender "man"
-        *goto agefetch
-    *label agefetch
-    ${gender} at the age of
-    *choice
-      #16
-        *set age 16
-        *goto locationfetch
-      #17
-        *set age 17
-        *goto locationfetch
-      #18
-        *set age 18
-        *goto locationfetch
-    *label locationfetch
-    ${age} year old ${gender} and full of problems. You were thrown into crime young. 
-    You live in the Lawless District, the worst and most dangerous district in the....
-    *choice
-      #North
-        *set district_location "North"
-        *goto finishup
-      #South
-        *set district_location "South"
-        *goto finishup
-      #East
-        *set district_location "East"
-        *goto finishup
-      #West
-        *set district_location "West"
-        *goto finishup
-    *label finishup
-    So a kid can only get ito trouble in a place like this. The only bright point in this dark place and time is your       little sister Cassie. But we'll get to her later
-    *finish Present.
+      #Boy
+        *set gender "Boy"
+        *goto_scene chapter1
+      #Girl
+        *set gender "Girl"
+        *goto_scene chapter1
   #The Popular Kid
+    *set body 15
+    *set athletics 15
+    *set intellect 15
+    *set charisma 25
+    *set technical 10
+    *set wilderness 10
+    *set criminal 10
+    *set streetwise 20
+    *set military 15
     To be done...
-    *finish The Present Day
+    *finish The Present Day  
   #The Nerd
+    *set body 10
+    *set athletics 10
+    *set intellect 25
+    *set charisma 10
+    *set technical 20
+    *set wilderness 20
+    *set criminal 10
+    *set streetwise 10
+    *set military 15
     To be done...
     *finish The Present Day
   #The Criminal
+    *set body 20
+    *set athletics 25
+    *set intellect 10
+    *set charisma 25
+    *set technical 15
+    *set wilderness 10
+    *set criminal 20
+    *set streetwise 20
+    *set military 5
     To be done...
     *finish The Present Day
