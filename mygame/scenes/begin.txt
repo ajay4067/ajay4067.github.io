@@ -5,19 +5,19 @@ Choose your ethnicity
     *set hair_color "dark brown"
     *set eye_color "gray"
     *set hairstyle "spikes"
-    *set skin = "tanned"
+    *set skin "tanned"
   #Native American
     *set ethnicity "native american
     *set hair_color "black"
     *set eye_color "russet"
     *set hairstyle "spikes"
-    *set skin = "dark brown"
+    *set skin "dark brown"
   #Asian
     *set ethnicity "asian
     *set hair_color "black"
     *set eye_color "brown"
     *set hairstyle "spikes"
-    *set skin = "yellow"
+    *set skin "yellow"
 December 21st, 2012 was the dawn of a new era for Earth. As the Mayans predicted it was the end of the world. Earth was invaded by alien species, it was a hostile takeover. 
 They killed 50% of the world's human population and repopulated it with aliens. You were a baby when it happened and can barely remember what happened during. 
 The leaders of the invasion, known as The Enyeta organized human districts. To keep track of humans and the other aliens who now roam the Earth. 
