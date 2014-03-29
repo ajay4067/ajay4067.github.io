@@ -28,9 +28,11 @@
 *create hair_color "black"
 *create eye_color "green"
 *create hairstyle "spikes"
+*create skin "tanned"
 *create ethnicity "caucasian"
 *comment Relationships
 *create cassie true
+*create cassie_relationship 50
 *create quinn false
 *create jules false
 *create mike false

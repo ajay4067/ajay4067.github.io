@@ -185,4 +185,4 @@ You and Mike walk out school, walking to the parking lot where awaits your...
 You say goodbye to Mike before you head for home. JamesBurg High School is in the complete center of all nine districts, it's not the only school around but it is the cheapest and the largest. 
 You drive off in your ${vehicle} heading for east to the Olympic District. 
 *page_break End of Chapter 1.
-*goto_scene present
+*goto_scene chapter2

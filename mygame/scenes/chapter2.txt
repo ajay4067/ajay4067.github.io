@@ -1,0 +1,285 @@
+[b]Chapter 2: Good Ol' Dad[/b]
+*line_break
+*temp trafficType "air traffic"
+*if vehicle = "Solar surfer"
+  *set trafficType "air traffic"
+  *goto out_of_traffic
+*elseif vehicle = "Hoverbike"
+  *set trafficType "air traffic"
+  *goto out_of_traffic
+*elseif vehicle = "Hovercar"
+  *set trafficType "air traffic"
+  *goto out_of_traffic
+*elseif vehicle = "Harley Davidson bike"
+  *set trafficType "traffic"
+  *goto out_of_traffic
+*elseif vehicle = "Sportscar"
+  *set trafficType "traffic"
+  *goto out_of_traffic
+*label out_of_traffic
+You finally made it to the Olympic District, finally getting out of the crazy ${trafficType}. The Olympic District is dedicated completely to physical fitness and physical perfection. That explains the gyms on every corner. As well as the joggers running on the sidewalks checking their heart rate.  The gyms have the best, state of the art, work-out equipment with plent of protein shake vendors.
+*line_break
+*line_break
+Fitness wear stores on every five blocks. Olympians get their clothes from there. The clothes are either sweats or spandex, in any color with the District seal on it. Letterman jackets are sold here too with high school and district seal patches on them already. If you want jeans or casual clothes go the Lixury District.
+*page_break
+There are nutrition bars on every corner to make sure Olympians, aka people of the Olympic District, stick with a healthy and nutritious diet. Your Olympian diet consists of plant foods, fruit, grains, starches, and a large amount of meat. You wash all that done with either a gallon of water or some sports drink. Thankfully Gatorade is still around, though an alien race known as the Nonol'a concocted a sports drink known as O3. You have yet to try it yet, but if you get to go out tonight maybe you'll get to try it.
+*line_break
+*line_break
+The Olympic District is known for breeding winners and top notch physical specimens. It is almost certain to breed winners. Because of the rigorous day to day routine for Olympians. Olympians work out six days a week, 4 hours a day. Including running a requirement of 2 miles.
+*line_break
+*line_break
+At age 13, every Olympian is required to pass a physical fitness test. Your dad made sure you passed it, he pushed you past the test requirements. It is known as the Olympic District Physical Fitness Test.
+*page_break
+An Olympian must do 110 push-ups within 2 minutes. Another part of the test is 200 chin-ups in 2 minutes. 250 sit-ups in 2:30 minutes. Last is 2 miles in 10 minutes. Once you pass the test, the Olympian is rewarded with a tattoo of the Olympic District seal on your arm. You remember the day you got your's. It hurt like a bitch for a thirteen year old kid.
+*line_break
+*line_break
+Your dad had you do 150 push-ups within 1 minute. 200 chin-ups in 1:30. 150 sit-ups in 1 minute. 2 miles in 5 minutes. You remember the back-breaking training your dad put you through when you were only 13.
+*line_break
+*line_break
+Your District has a motto in latin," Surgram." It means, " I shall rise." Olympians take that meaning you will rise until there is no one else to stand against you. Others interpret it as rising to perfection.
+*line_break
+*line_break
+The Olympic District motto is on the seal as well, in latin. The seal is a brown horned ox with smoke coming from its nose. The latin phrase underneath it. The ox is on a red background with axes crossed behind it.
+*page_break
+You park your ${vehicle} in your driveway, behind Cassie's light blue Volkswagen and your dad's hovercar. Now a hovercar is expensive but your dad has the means to get it. Your dad is legendary fighter and sports legend Gordon ${last_name}. Your dad was perhaps one of the strongest and fastest Olympian too bad he never was offered to be a L'oik or a Larken. Which was odd, anyway he never let that go. That explains him pushing you to be the best of the best.
+*line_break
+*line_break
+Your house looks like an ordinary middle-class home. It has a cozy look to it, it should since its only you, your sister Cassie, and your dad. You use your key to open the front door. The sound of AHT, Alien and Human Television coming from the living room. You walk into the living room, your dad is sitting in his favorite recliner chair watching AHT on his huge plasma tv. Your dad has ${hair_color} hair with ${eye_color} eyes. His has ${skin} skin. He is bulging with muscle, his height is about 6'6.
+*page_break
+"Finally home?" Dad asked.
+*fake_choice
+  #politely
+    I had practice then I had to talk with my Coach about this season," you tell him.
+    *goto gladiator_match
+  #sarcasticly
+    "Woulda been here sooner if Coach wasn't talking my ear off.
+    *goto gladiator_match
+  #Aggressively
+    "Had to be lectured about how much our school's sorry ass team needs me to bring it home this season.
+    *goto gladiator_match
+*label gladiator_match
+"Good thing you're here now we can watch the L'oik and Larken  gladiator matches."
+*line_break
+*line_break
+L'oik? You almost forgot. L'oik and Larken are children of the districts from ages 15-25 who are chosen from in The Choosing.
+*line_break
+*line_break
+The Choosing is where the Enyeta pick one boy and one girl from each District and then take them away to be experimented on. The Enyeta who made the L'oik has asked for this so he can make more of his L'oik. He has over twenty successful ones but most of the subjects don't live through the experience. It is dangerous for humans. The same thing for the Enyeta who created the Larken. You think about your ride to here earlier.
+*line_break
+*line_break
+On the way from the school when you stopped to look at an advertisement. It has the photo of the human girl gladiator Alison on it.
+*page_break
+For entertainment and intimidation, the Enyeta do some kind of experiments on humans and other species and then make them compete in gladiatorial events. It is basically human boys and girls slaughtering their own kind and aliens. Or aliens slaughtering both humans and other aliens.
+*line_break
+*line_break
+There are nine different alien species. Each species with their own social hierarchy along with the social hierarchy on Earth. 
+There is (in hierarchal order) the Enyeta, Threi, Venusians, Aracesians, Martians, Verl'aks, Sh'iik, G'lan, and the Lupek. Humans are at the bottom and thought of as slaves. The only humans that matter are the genetically enchanced humans known as the L'oik and the Larken.
+*line_break
+*line_break
+Alison is a L'oik and from what you hear and see she is the best female fighter. Gladiator fights are televised all over for the world to see. It is a way to show humans not to rebel. 
+*line_break
+*line_break
+The best L'oik and Larken come from the Olympic District. The true purpose of the Olympic District is to get humans ready to be chosen and physically prepared for the process of being a L'oik or a Larken.
+*page_break
+Once you become a L'oik or Larken, you are first showcased to the world. A interview is held by some fancy guy and the new L'oik or Larken. You are interviewed and asked a few simple questions about yourself so the people can decide if they like you. If you have a positive interview and the people like you, you are then forced to fight in the arena.
+*line_break
+*line_break
+The goal is to win in the arena and garner more favor from the people of the world. If you lose it may be alright but only if the people demand your life be spared. If not then you die. If you win and continuously win, you are a celebrity. The people will love you and you will become rich and be on AHT. And in movies and all sorts of lucrative opportunities. Which is why people in the Lawless District believe becoming a Larken or a L'oik is one of the greatest things that can ever happen to an Olympian.
+*line_break
+*line_break
+What do you think?
+*choice
+  #I don't like it.
+    You don't think so because what people don't know is...every time you step out into that arena you are forfeiting your life and everything you own. Even if you become rich and famous, you are still a slave to the Enyeta only your chains are invisible.
+    *goto dad_asks
+  #Being a L'oik or Larken would be great.
+    You wouldn't have to worry about money and you would get the chance to become famous. It is like a dream come true.
+    *goto dad_asks
+*label dad_asks
+"Colt is going against a Verl'ak tonight," Dad said.
+*line_break
+*line_break
+*temp goingToChucks false
+What do you say?
+*choice
+  #Ask if I can go out to Chuck's with Mike to watch the game.
+    Your dad looks at you then smiles. Been awhile since you've seen one of them. He only smiles when Cassie is around.
+    *line_break
+    *line_break
+    "Finally showing an interest in the fights. Go ahead. Be ready for our morning workouts tommorrow." You nod. " Yes sir," you said obidiently.
+    *set goingToChucks true
+    *goto cassie_comes_in
+  #Tell him I'm hanging out with Mike tonight to see the games at Chuck's.
+    Your dad looks at you but shrugs his shoulders. You half expected him to punch you.
+    *line_break
+    *line_break
+    "Alright. Go ahead. Be back in time to get your rest for tommorrow morning," he said. You nod. " Ok."
+    *set goingToChucks true
+    *goto cassie_comes_in
+  #Nothing.
+    And now you're stuck at the house with your pushy father. Maybe next time.
+    *set goingToChucks false
+    *goto cassie_comes_in
+*label cassie_comes_in
+You walk to the back of the house where your room and Cassie's room is. You go into your room, then flop onto your bed. It feels good to finally be home.
+*line_break
+*line_break
+Cassie knocks on your door once then comes right on in.
+*line_break
+*line_break
+How do you react?
+*choice
+  #I don't. Cassie is my sister she knows I don't care. 
+    Cassie is your best friend. The two of you are really close. You tell each other everything. There are no secrets between you. You love your sister. You play with the bracelet Cassie made you. 
+    *line_break
+    *line_break
+    You remember the first time she gave it to you. You were thirteen and she was twelve. Cassie loved art back then so in art class they were making jewelry for someone they loved the most. You couldn't believe it when Cassie brought it home and gave it to you. Cassie made you promise to never take it off. You promised that you wouldn't and haven't ever taken it off. And after that the two of have been closer than any other brother and sister. Thats why she is the only good thing in your life.
+    *set cassie_relationship 75
+    *goto cassie_looks
+  #I berate Cassie.
+    She shouldn't have just came in without me saying it was okay. She just rolls her eyes at you as you play with the bracelet she gave you. You remember the first time she gave it to you. You were thirteen and she was twelve. Cassie loved art back then so in art class they were making jewelry for someone they loved the most. You couldn't believe it when Cassie brought it home and gave it to you because you and Cassie are always yelling at each other. Cassie made you promise to never take it off. You promised that you wouldn't and haven't ever taken it off.
+    *set cassie_relationship 45
+    *goto cassie_looks
+*label cassie_looks
+*temp cassieDescription ""
+*if ethnicity = "caucassian"
+  *set cassieDescription "Cassie is beautiful and has big blue eyes. Long blonde hair in a ponytail. Her skin is tanned, from all her daytime workouts. She is fifteen years old, she'll be sixteen in two months"
+*elseif ethnicity = "native american"
+  *set cassieDescription "Cassie looks more White than Native American. Sometimes you wonder if your dad cheated on your mom. Cassie is beautiful and has big blue eyes. Long blonde hair in a ponytail. Her skin is tanned, the only sign of her heritage. She is fifteen years old, she'll be sixteen in two months."
+*elseif ethnicity = "asian"
+  *set cassieDescription "Cassie was adopted when you were only 2 but the two of you don't need blood to make you brother and sister. Cassie looks more White than Native American. Cassie is beautiful and has big blue eyes. Long blonde hair in a ponytail. Her skin is tanned, the only sign of her heritage. She is fifteen years old, she'll be sixteen in two weeks."
+Cassie is a few months younger than you. ${cassieDescription}
+*if goingToChucks = true
+  *goto goingChuckTrue
+*else
+  *goto goingChuckFalse
+*label goingChuckTrue
+"Going to Chuck's tonight?" Cassie asked."
+*choice
+  #politely
+    "Yes with Mike and a couple of others. They want to see the fights."
+    *line_break
+    *line_break
+    Wow dad let you go? Cassie Responds.
+    *line_break
+    *line_break
+    Yeah he must be in a good mood.
+    *line_break
+    *line_break
+    Good hope you have fun. When you come back tell me if you like Chuck's.
+    *set cassie_relationship cassie_relationship+3
+    *goto remain2hours
+  #sarcasticaly
+    "Sounds like my little sister was being nosey and listening in."
+    *line_break
+    *line_break
+    Cassie laughs at your joke. "I was only listening for a minute. I can't believe dad let you go. Cassie Responds.
+    *line_break
+    *line_break
+    I had to drug him first then he said yes.
+    *line_break
+    *line_break
+    Cassie laughs again. "Next time tell me which drug you used so I can borrow it. Tell me about Chuck's drinks."
+    *set cassie_relationship cassie_relationship+3
+    *goto remain2hours
+  #aggressively
+    "I really wish you wouldn't eavesdrop."
+    *line_break
+    *line_break
+    Lighten up (name) besides I was just wondering. Dad never lets you go out.? Cassie Responds.
+    *line_break
+    *line_break
+    Because he's really the one who needs to lighten up around here.
+    *line_break
+    *line_break
+    Agressive response. "No kidding. I'll see you ${name}"
+    *goto remain2hours
+*label goingChuckFalse
+*goto endChapter2
+*label remain2hours
+Cassie leaves your room, closing the door behind here. Its only 6, which gives you two hours to do whatever you want.
+*line_break
+*line_break
+What do you do?
+*choice
+  #Go lift some weights.
+    *set body body+10
+    You lift a few heavy weights for an hour. You feel your body strengthen from the workout.
+    *goto whatElese
+  #Go running for some fresh air.
+    *set athletics athletics+10
+    Your legs are able to keep you running for a good 3 miles. You feel better agility and stamina-wise.
+    *goto whatElese
+  #Do some extra credit.
+    *set intellect intellect+10
+    Though it isn't easy, you crunch through your extra credit. You feel smarter already.
+    *goto whatElese
+  #Practice speaking in the mirror.
+    *set charisma charisma+10
+    At first the words don't come together but then you end up flowing through a speech effortlessly.
+    *goto whatElese
+  #Tune up Cassie's car.
+    *technical technical+10
+    Cassie's Volkswagen is always in need of work. You work on it for an hour, letting grease get on you.
+    *goto whatElese
+  #Go to the Forestry district and be one with the wild.
+    *set wilderness wilderness+10
+    The Forestry District loves the woods, so you easily become one with nature for an hour.
+    *goto whatElese
+  #Try my hand at lockpicking a few times.
+    *set criminal criminal+10
+    Picking locks is easier said than done. After an hour you're not exactly a master but you get the hang of it.
+    *goto whatElese
+  #Talk to a few of my contacts in Lawless, so they don't forget about me.
+    *set streetwise streetwise+10
+    Your contacts almost forgot but they see your face and instantly remember you. You'll need them especially since you aren't street savvy.
+    *goto whatElese
+  #Talk to the military family across the street.
+    *set military military+10
+    The dad would love to speak with me about my future in the Armed Forces aka Enyeta Armed Forces. Lieutenant Johnson gives you pointers on how to get into the military. He tells you that if you need any help, he has your back indefinitely.
+    *goto whatElese
+*label whatElese
+What else do you do?
+*choice
+  #Go lift some weights.
+    *set body body+10
+    You lift a few heavy weights for an hour. You feel your body strengthen from the workout.
+    *goto visitChucks
+  #Go running for some fresh air.
+    *set athletics athletics+10
+    Your legs are able to keep you running for a good 3 miles. You feel better agility and stamina-wise.
+    *goto visitChucks
+  #Do some extra credit.
+    *set intellect intellect+10
+    Though it isn't easy, you crunch through your extra credit. You feel smarter already.
+    *goto visitChucks
+  #Practice speaking in the mirror.
+    *set charisma charisma+10
+    At first the words don't come together but then you end up flowing through a speech effortlessly.
+    *goto visitChucks
+  #Tune up Cassie's car.
+    *technical technical+10
+    Cassie's Volkswagen is always in need of work. You work on it for an hour, letting grease get on you.
+    *goto visitChucks
+  #Go to the Forestry district and be one with the wild.
+    *set wilderness wilderness+10
+    The Forestry District loves the woods, so you easily become one with nature for an hour.
+    *goto visitChucks
+  #Try my hand at lockpicking a few times.
+    *set criminal criminal+10
+    Picking locks is easier said than done. After an hour you're not exactly a master but you get the hang of it.
+    *goto visitChucks
+  #Talk to a few of my contacts in Lawless, so they don't forget about me.
+    *set streetwise streetwise+10
+    Your contacts almost forgot but they see your face and instantly remember you. You'll need them especially since you aren't street savvy.
+    *goto visitChucks
+  #Talk to the military family across the street.
+    *set military military+10
+    The dad would love to speak with me about my future in the Armed Forces aka Enyeta Armed Forces. Lieutenant Johnson gives you pointers on how to get into the military. He tells you that if you need any help, he has your back indefinitely.
+    *goto visitChucks
+*label visitChucks
+After your two hours are up, you head to your ${vehicle} and drive off to Chuck's to meet Mike and the guys.
+*goto endChapter2
+*label endChapter2
+*page_break End of Chapter 2
+*goto_scene present

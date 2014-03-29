@@ -10,3 +10,4 @@ This is a stats screen!
   text Criminal
   text Streetwise
   text Military
+  percent cassie_relationship Cassie RelationShip
