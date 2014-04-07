@@ -15,7 +15,7 @@ Choose your ethnicity
     *set skin "dark brown"
     *goto beginnings
   #Asian
-    *set ethnicity "asian
+    *set ethnicity "asian"
     *set hair_color "black"
     *set eye_color "brown"
     *set hairstyle "spikes"

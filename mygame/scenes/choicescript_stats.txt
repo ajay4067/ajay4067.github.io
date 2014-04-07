@@ -11,3 +11,7 @@ This is a stats screen!
   text Streetwise
   text Military
   percent cassie_relationship Cassie RelationShip
+  percent quinn_relationship Quinn RelationShip
+  percent sarah_relationship Sarah RelationShip
+  percent mike_relationship Mike RelationShip
+  percent wesley_relationship Wesley RelationShip

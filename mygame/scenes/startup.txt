@@ -41,3 +41,7 @@
 *create coloniel_wilson false
 *create johnny false
 *create vehicle "Solar surfer"
+*create quinn_relationship 0
+*create sarah_relationship 0
+*create mike_relationship 0
+*create wesley_relationship 0

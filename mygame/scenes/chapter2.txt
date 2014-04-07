@@ -282,4 +282,7 @@ After your two hours are up, you head to your ${vehicle} and drive off to Chuck'
 *goto endChapter2
 *label endChapter2
 *page_break End of Chapter 2
-*goto_scene present
+*if goingToChucks
+  *goto_scene chapter3_Chucks
+*else
+  *goto_scene chapter3_withDad
