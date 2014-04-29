@@ -1,0 +1,86 @@
+[
+    {
+        "name": "ms-excel",
+        "knowledge": [
+            "Excel Formula Basics",
+            "programming fundamentals",
+            "vba-subroutines",
+            "vba-functions",
+            "reuse-artifacts-snippets",
+            "pivots, charts",
+            "custom UI editor"
+        ]
+    },
+    {
+        "name": "PHP",
+        "knowledge": [
+            "SLIM REST Framework",
+            "NotORM for Database access",
+            "Simple Datastructures",
+            "programming fundamentals",
+            "Object oriented PHP",
+            "File Handling (Logs, file uploads, backups)"
+        ]
+    },
+    {
+        "name": "Wordpress",
+        "knowledge": [
+            "Revamp stable themes",
+            "Configure best of the plugins",
+            "Widgets usage",
+            "Custom forms",
+            "wp_query for page data and post data",
+            "page interaction using javascript",
+            "Responsive sliders"
+        ]
+    },
+    {
+        "name": "Android",
+        "knowledge": [
+            "Android design guide",
+            "Dynamic data from Webservices sync with database",
+            "Device access, handling",
+            "Multi screen support",
+            "Animations",
+            "Gestures",
+            "Maps"
+        ]
+    },
+    {
+        "name": "Photoshop",
+        "knowledge": [
+            "PSDs of work so far",
+            "Documentation for camera raw & adobe bridge",
+            "Knowledge of tools from tutorials",
+            "Typography skills",
+            "Image manipulation skills"
+        ]
+    },
+    {
+        "name": "Powerpoint",
+        "knowledge": [
+            "Repo of sample presentations by mastering transitions & animations from quality presentations",
+            "re-engineered samples of Tedsters & coursera",
+            "Documentation"
+        ]
+    },
+    {
+        "name": "Video Making",
+        "knowledge": [
+            "Sample Documentaries",
+            "re-engineered samples of Tedsters & coursera",
+            "Documentation",
+            "music samples for embedding"
+        ]
+    },
+    {
+        "name": "ms-word",
+        "knowledge": [
+            "citation styles",
+            "Article styles",
+            "Indexing",
+            "Header & footer design",
+            "Image alignment, transparencies"
+        ]
+    }
+]
