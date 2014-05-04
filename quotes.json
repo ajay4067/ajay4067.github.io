@@ -1,19 +1,19 @@
 {
 	"quoteAuthors": {
 		"Osho": {
-			"imageURL": "ajay4067.github.io/img1.png",
+			"imageURL": "http://ajay4067.github.io/img1.png",
 			"quoteList": ["First Osho Quote",
 			"Second Osho Quote",
 			"Third Osho Quote"]
 		},
 		"UG": {
-			"imageURL": "ajay4067.github.io/img2.png",
+			"imageURL": "http://ajay4067.github.io/img2.png",
 			"quoteList": ["First UG Quote",
 			"Second UG Quote",
 			"Third UG Quote"]
 		},
 		"Einstein": {
-			"imageURL": "ajay4067.github.io/img3.png",
+			"imageURL": "http://ajay4067.github.io/img3.png",
 			"quoteList": ["First einstein Quote",
 			"Second einstein Quote",
 			"Third einstein Quote"]
